@@ -35,7 +35,14 @@ All default hyperparameters are already set in files. 'which_dataset' can be cho
 
 
 ## Reference
-- MAtt: A Manifold Attention Network for EEG Decoding, NeurIPS 2022.
+```bash
+@article{pan2022matt,
+  title={MAtt: A Manifold Attention Network for EEG Decoding},
+  author={Pan, Yue-Ting and Chou, Jing-Lun and Wei, Chun-Shu},
+  journal={arXiv preprint arXiv:2210.01986},
+  year={2022}
+}
+```
 
 ```bash
 @inproceedings{wei2019spatial,
@@ -91,6 +98,15 @@ doi = "10.6084/m9.figshare.3153409.v4"
   volume={2012},
   year={2012},
   publisher={Hindawi}
+}
+```
+We modified code from:
+```bash
+@misc{spdnet2020,
+  author={adavoudi},
+  title={spdnet},
+  year={2020},
+  url={https://github.com/adavoudi/spdnet},
 }
 ```
 
